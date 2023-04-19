@@ -1,6 +1,6 @@
 # Graph
 
-中文README: https://github.com/aiyojun/graph-engine/blob/master/README_ZH.md
+中文README: https://github.com/aiyojun/graph-engine/blob/main/README_ZH.md
 
 > Graph is a GUI tool that describes a model of things using nodes and lines.
 > Node data visualization, modular editing, data import and export and other functions.
@@ -12,7 +12,7 @@
 
 electron version(machine vision algorithm application, my another opensource project)：
 
-![image](https://github.com/aiyojun/graph-engine/blob/master/electron-app.png)
+![image](https://github.com/aiyojun/graph-engine/blob/main/electron-app.png)
 
 ## Usage
 
