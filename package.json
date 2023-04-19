@@ -2,8 +2,8 @@
   "name": "graph-engine",
   "version": "1.0.0",
   "description": "Modern graph rendering engine based on node.",
-  "author": "aiyojun <1608450902@qq.com>",
-  "homepage": "https://github.com/aiyojun/graph/tree/main/packages/graph-engine#readme",
+  "author": "aiyojun <aiyojun@gmail.com>",
+  "homepage": "https://github.com/aiyojun/graph-engine/tree/main#readme",
   "license": "ISC",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aiyojun/graph.git"
+    "url": "git+https://github.com/aiyojun/graph-engine.git"
   },
   "scripts": {
     "build": "tsc -p . && npm run postproc0 && npm run postproc1 && npm run postproc2",
@@ -22,7 +22,7 @@
     "postproc2": "node scripts/cmdline.js cp-r src/theme dist/theme/"
   },
   "bugs": {
-    "url": "https://github.com/aiyojun/graph/issues"
+    "url": "https://github.com/aiyojun/graph-engine/issues"
   },
   "devDependencies": {
     "typescript": "^4.9.5"
