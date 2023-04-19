@@ -6,7 +6,6 @@ const child_process = require("child_process");
 const cmd = process.argv[2]
 const args = process.argv.slice(3).join(' ')
 const platform = process.platform
-console.info(`cmd: ${cmd} , args: ${args}`)
 const handles = {
     'rm': {
         linux: `rm -rf ${args}`,
