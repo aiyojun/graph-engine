@@ -1,6 +1,6 @@
 {
   "name": "graph-engine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Modern graph rendering engine based on node.",
   "author": "aiyojun <aiyojun@gmail.com>",
   "homepage": "https://github.com/aiyojun/graph-engine/tree/main#readme",
