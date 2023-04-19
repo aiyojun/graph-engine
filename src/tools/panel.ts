@@ -1,5 +1,5 @@
 // The light-weight ui framework, published with graph-engine!
-import './panel.css'
+import '../css/panel.css'
 import { inject } from "./jlib";
 import { $T } from '../locale'
 

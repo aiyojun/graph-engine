@@ -1,7 +1,7 @@
 import {v4} from 'uuid'
 import {inject} from "./jlib";
 import {$T} from '../locale'
-import './menu.css'
+import '../css/menu.css'
 import SvgRight from '../assets/right.svg'
 const uuidv4 = () => v4().replaceAll('-', '')
 

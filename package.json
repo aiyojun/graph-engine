@@ -17,7 +17,7 @@
   },
   "scripts": {
     "build": "tsc -p . && npm run postproc0 && npm run postproc1 && npm run postproc2",
-    "postproc0": "node scripts/cmdline.js cp src/*.css dist/",
+    "postproc0": "node scripts/cmdline.js cp-r src/css dist/css/",
     "postproc1": "node scripts/cmdline.js cp-r src/assets dist/assets/",
     "postproc2": "node scripts/cmdline.js cp-r src/theme dist/theme/"
   },
