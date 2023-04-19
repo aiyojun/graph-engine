@@ -1,6 +1,6 @@
 {
   "name": "graph-engine",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A high-performance and node-based data flowchart/graph construct tools.",
   "author": "aiyojun <aiyojun@gmail.com>",
   "homepage": "https://github.com/aiyojun/graph-engine/tree/main#readme",
