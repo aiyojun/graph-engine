@@ -10,7 +10,7 @@
 
 electron版本(在机器视觉算法上的应用， 我的另一个开源项目)：
 
-![image](https://github.com/aiyojun/graph-engine/blob/main/electron-app.png)
+![image](./electron-app.png)
 
 ## 使用
 
