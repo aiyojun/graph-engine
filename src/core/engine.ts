@@ -1,8 +1,8 @@
 import { v4 } from 'uuid'
-import {inject, injectFront, Point, scale2d, wirePath} from "../tools/jlib";
-import '../css/essential.css'
-import SvgAnchor from '../assets/anchor.svg'
-import {Menu, MenuItem} from "../tools/menu";
+import {inject, injectFront, Point, scale2d, wirePath} from "@/tools/jlib";
+import '@/css/essential.css'
+import SvgAnchor from '@/assets/anchor.svg'
+import {Menu, MenuItem} from "@/tools/menu";
 
 export type BasicContext = {
     scale: number;

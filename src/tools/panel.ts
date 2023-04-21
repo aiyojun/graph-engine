@@ -1,7 +1,7 @@
 // The light-weight ui framework, published with graph-engine!
-import '../css/panel.css'
+import '@/css/panel.css'
 import { inject } from "./jlib";
-import { $T } from '../locale'
+import { $T } from '@/locale'
 
 export class Descriptor {
     type: string;
